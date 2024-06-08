@@ -19,6 +19,6 @@ body {
     height: 100svh;
     display: flex;
     justify-content: center;
-    align-itens: center;
+    align-items: center;
 }
 `
